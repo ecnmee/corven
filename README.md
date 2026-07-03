@@ -1,3 +1,7 @@
+# !\[Corven](./corven-logo.png)
+
+# 
+
 # Corven
 
 Corven is an interface compiler that generates the minimum CSS necessary to build fast, accessible, and efficient applications.
@@ -16,8 +20,9 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md). Note: the project isn't accepting exte
 
 ## Code of Conduct
 
-See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
+See [CODE\_OF\_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ## Security
 
 See [SECURITY.md](./SECURITY.md) for how to report vulnerabilities.
+
