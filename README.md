@@ -1,6 +1,4 @@
-# !\[Corven](./corven-logo.png)
-
-# 
+![Corven](./corven-logo.png)
 
 # Corven
 
@@ -20,9 +18,8 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md). Note: the project isn't accepting exte
 
 ## Code of Conduct
 
-See [CODE\_OF\_CONDUCT.md](./CODE_OF_CONDUCT.md).
+See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ## Security
 
 See [SECURITY.md](./SECURITY.md) for how to report vulnerabilities.
-
