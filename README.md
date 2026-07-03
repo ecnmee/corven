@@ -1,4 +1,4 @@
-![Corven](./corven-logo.png)
+![Corven](./assets/logo.png)
 
 # Corven
 
