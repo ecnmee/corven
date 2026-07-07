@@ -1,6 +1,6 @@
 # Roadmap
 
-High-level, public view of where Corven is headed. For the full architectural reasoning behind each stage, see the ADRs in the private development monorepo (referenced from internal docs — not all architecture decisions are public yet).
+High-level, public view of where Corven is headed. For the full architectural reasoning behind each stage, see the ADRs in the private development monorepo (referenced from internal docs; not all architecture decisions are public yet).
 
 | Stage | What ships | Status |
 |---|---|---|
@@ -14,4 +14,4 @@ High-level, public view of where Corven is headed. For the full architectural re
 
 Layers 1 through 4 (Tokens, Utilities, Components, Layouts) are closed: each compiles cleanly, has zero duplicate rules, has automated compilation and visual regression tests, and has a live example. See [UPDATES.md](./UPDATES.md) for the development log.
 
-Next: Layer 5 (Pages) — reconstructing real page examples using only the layers above. No timeline is published yet — quality gates come before dates.
+Next: Layer 5 (Pages), reconstructing real page examples using only the layers above. No timeline is published yet; quality gates come before dates.
