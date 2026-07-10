@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="Corven" width="364">
+  <img src="./assets/logo.png" alt="Corven" width="420">
 </p>
 
 <p align="center">
